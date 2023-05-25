@@ -1,9 +1,23 @@
 body {
-    background-color: rgb(25, 5, 43);
-    color: antiquewhite;
+    background-color: rgb(1, 0, 2);
+    color: rgb(204, 133, 28);
 }
 h2{text-align: center;}
 .filme1{
     text-align: center;
 }
 h3{text-align: center;}
+
+.filme{display: inline;}
+
+.divisor-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.link{background-color: rgb(255, 251, 251);
+color: rgb(0, 0, 0);}
+
+.informacoes{text-align: center;
+}
+
+
